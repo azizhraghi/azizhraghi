@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="215" viewBox="0 0 540 215" role="img" aria-label="Vendex, AI image forensics">
+  <defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#3a2334"/><stop offset="1" stop-color="#17182c"/></linearGradient></defs>
+  <rect x="1" y="1" width="538" height="213" rx="18" fill="url(#b)" stroke="#78526a" stroke-width="2"/>
+  <text x="28" y="39" fill="#ff9fc9" font-family="Arial, sans-serif" font-size="13" font-weight="bold" letter-spacing="2">04 / AI + FORENSICS</text>
+  <text x="27" y="95" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="39" font-weight="bold">Vendex</text>
+  <text x="28" y="127" fill="#d5b9ca" font-family="Arial, sans-serif" font-size="17">Evidence before a verdict.</text>
+  <path d="M28 155 H323" stroke="#714e65"/>
+  <text x="28" y="186" fill="#ff9fc9" font-family="Arial, sans-serif" font-size="14" font-weight="bold">TOP 6 / 37 · GDGC FST</text>
+  <rect x="372" y="43" width="127" height="126" rx="14" fill="#4b2c45" stroke="#ffa9ce" stroke-width="2"/>
+  <path d="M390 70 V61 H412 M459 61 H482 V83 M482 130 V151 H460 M412 151 H390 V129" fill="none" stroke="#ffa9ce" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="436" cy="105" r="28" fill="none" stroke="#ffa9ce" stroke-width="3"/>
+  <path d="M408 105 H464 M436 77 V133" stroke="#ffa9ce" stroke-width="2" stroke-opacity=".65"/>
+  <circle cx="436" cy="105" r="6" fill="#ffa9ce"/>
+</svg>

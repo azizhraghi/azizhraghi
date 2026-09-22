@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="215" viewBox="0 0 540 215" role="img" aria-label="GROOV, multi-agent study group">
+  <defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#252348"/><stop offset="1" stop-color="#13182f"/></linearGradient></defs>
+  <rect x="1" y="1" width="538" height="213" rx="18" fill="url(#b)" stroke="#575277" stroke-width="2"/>
+  <text x="28" y="39" fill="#b6a2ff" font-family="Arial, sans-serif" font-size="13" font-weight="bold" letter-spacing="2">02 / AI + LEARNING</text>
+  <text x="27" y="95" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="39" font-weight="bold">GROOV</text>
+  <text x="28" y="127" fill="#c5c0dc" font-family="Arial, sans-serif" font-size="17">Six minds around one question.</text>
+  <path d="M28 155 H323" stroke="#5d557a"/>
+  <text x="28" y="186" fill="#b6a2ff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">LOCAL LLM · RAG · VOICE</text>
+  <circle cx="434" cy="107" r="44" fill="#2e2a59" stroke="#ae96ff" stroke-width="2"/>
+  <circle cx="434" cy="107" r="14" fill="#ae96ff"/>
+  <circle cx="434" cy="42" r="9" fill="#6d659e"/><circle cx="490" cy="75" r="9" fill="#6d659e"/>
+  <circle cx="490" cy="139" r="9" fill="#6d659e"/><circle cx="434" cy="172" r="9" fill="#6d659e"/>
+  <circle cx="378" cy="139" r="9" fill="#6d659e"/><circle cx="378" cy="75" r="9" fill="#6d659e"/>
+  <path d="M434 63 V91 M472 85 L447 100 M472 129 L447 114 M434 151 V123 M396 129 L421 114 M396 85 L421 100" stroke="#a48bf6" stroke-width="2"/>
+</svg>
